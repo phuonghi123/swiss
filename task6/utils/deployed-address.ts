@@ -1,0 +1,4 @@
+export const SWTRProxy = '0x62a620a2389c547FFB4F6495E3BDdc41774c68cf'
+export const ProxyAdmin = '0x5cE2df3D3a6A01f66331B5C8c3A0BCA88005CE16'
+export const SWTRImplementation = '0xefE108a804cC1e220fB435d9696397132601155d'
+    
